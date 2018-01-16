@@ -9,7 +9,6 @@ function main() {
     }else {
         console.log(`999`);
     }
-
 }
 
 main();
